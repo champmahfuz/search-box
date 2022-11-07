@@ -9,8 +9,9 @@ const Home = () => {
     return (
         <div>
             <Navigation />
+            {/* this is home */}
             <Banners />
-            {/* <SearchFlight /> */ }
+            {/* <SearchFlight /> */}
             <LightningDeals />
             <Packages />
             <Footer />
